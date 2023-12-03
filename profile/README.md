@@ -17,3 +17,11 @@ Our user-friendly interface ensures that you can make informed decisions about t
 Discover the hidden truths behind the food you eat and embark on a journey of informed and healthier choices with "Is it Healthy?" Start using my website, web app, or Android app today and take the first step towards a healthier you.
 
 Note: I'm not responsible for the accuracy of data. It's all scraped from [www.food-info.net](https://www.food-info.net/uk/index.htm)
+
+![exp1](https://github.com/is-it-healthy/.github/assets/36286877/8a4b24ca-6205-493b-ae77-25ba9effa670)
+
+![exp2](https://github.com/is-it-healthy/.github/assets/36286877/4725ee53-96ce-4338-af13-fcf0d718762e)
+
+![exp3](https://github.com/is-it-healthy/.github/assets/36286877/d27a6212-19ca-4414-9e75-246add3f5028)
+
+
