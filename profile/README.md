@@ -1,3 +1,5 @@
+# NOTE: I'm re-writing everything. So, everything might be broken at the moment.
+
 ## Hi there 👋
 
 <div align="center">
